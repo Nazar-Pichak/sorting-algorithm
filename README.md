@@ -1,4 +1,4 @@
-# unittest
+# unittest for sorting function
 
 An interesting task from training platform for developers [Codewars](https://www.codewars.com/dashboard).
 The sorting algorithm and function I have created myself.
